@@ -36,5 +36,7 @@ namespace StorybrewScripts
             bg.Fade(endTime, endTime + offset, 1, 0);
             bg.Rotate(OsbEasing.OutSine, startTime, endTime, -0.05, 0.05);
         }
+
+        // todo: implement more stuff for more scenes (maybe)
     }
 }
