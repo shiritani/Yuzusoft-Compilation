@@ -10,8 +10,8 @@ namespace StorybrewScripts
             var layer = GetLayer("Flash");
             var flash = layer.CreateSprite("sb/flash.jpg", OsbOrigin.Centre);
 
-            flash.Fade(OsbEasing.None, 47568, 48068, 0, .2f);
-            flash.Fade(OsbEasing.OutExpo, 48068, 49568, 1, 0);
+            flash.Fade(OsbEasing.None, 47868, 48068, 0, .2f);
+            flash.Fade(OsbEasing.OutExpo, 48068, 49268, 1, 0);
         }
     }
 }
