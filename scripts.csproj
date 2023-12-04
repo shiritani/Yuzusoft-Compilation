@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="DeleteBG.cs" />
     <Compile Include="Flash.cs" />
+    <Compile Include="Particles.cs" />
     <Compile Include="Scenes.cs" />
     <Compile Include="SongList.cs" />
     <Compile Include="VNList.cs" />
